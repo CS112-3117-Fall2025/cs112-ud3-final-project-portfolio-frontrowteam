@@ -10,7 +10,8 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 
 ## Demo
 
-Place the animated image of your project demo here!
+Place the animated image of your project demo here!![Casino App 2025-11-28 18-39-16](https://github.com/user-attachments/assets/ecbceb65-d01b-49ff-adf9-abe84e220615)
+
 
 ## UML Diagram
 
