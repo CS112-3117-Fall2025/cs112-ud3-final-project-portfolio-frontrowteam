@@ -16,6 +16,7 @@ Place the animated image of your project demo here!![Casino App 2025-11-28 18-39
 ## UML Diagram
 
 Place your UML diagram image here! Make sure they're updated to be accurate to your final project!
+![UML Diagram UD3](https://github.com/user-attachments/assets/5cdafa40-51ec-4d00-84dd-cb6740479837)
 
 ## Wireframe
 
